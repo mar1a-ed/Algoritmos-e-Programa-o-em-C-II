@@ -1,1 +1,7 @@
-## Códigos de Mini Projetos da Disciplina de Algoritmos e Programação II em C.
+## Códigos para Disciplina de Algoritmos e Programação II (APII) em C.
+- Revisão Algoritmos e Programação I (API)
+- Funções
+- Ponteiros
+- Alocação Dinâmica de Memória
+- Arquivo
+  
