@@ -4,6 +4,12 @@
 int main(){ 
     int *vetor;
 
+    /*passo a passo o operador abaixo:
+    1º calcula o numero de bytes necessarios, utilizando 5 * sizeof(int)
+    2º reserva a quantidade com o malloc(bytes necessarios)
+    3º converte o tipo void retornado para o tipo especifico atraves do casting
+    */
+   
     vetor = (int*) malloc(5*sizeof(int));
 
     if(vetor==NULL){
