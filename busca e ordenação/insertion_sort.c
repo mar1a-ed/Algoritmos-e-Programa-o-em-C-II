@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #define TAM 10
 
+//custo de O(n2)
 void imprime_vetor(int *vetor, int tamanho);
 
 //consiste em empurrar todos os numeros para frente de um numero analisado até ordenar
